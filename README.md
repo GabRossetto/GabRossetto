@@ -53,4 +53,3 @@ Acredito que cada linha de código é uma oportunidade de aprendizado — e sigo
 > — *Gabriel de Araujo Rossetto*
 
 
-![GabRossetto's Stats](https://github-readme-stats.vercel.app/api?username=GabRossetto&theme=tokyonight&show_icons=true&hide_border=false&count_private=true) 
