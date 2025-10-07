@@ -44,7 +44,7 @@ Acredito que cada linha de código é uma oportunidade de aprendizado — e sigo
 ---
 
 ## 📫 Onde me encontrar
-- 💼 [LinkedIn]www.linkedin.com/in/gabriel-rossetto-1146662b3 
+- 💼 www.linkedin.com/in/gabriel-rossetto-1146662b3 
 - 📧 **gabrielrossetto.trabalho@gmail.com**   
 
 ---
